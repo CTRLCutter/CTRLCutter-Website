@@ -1,0 +1,29 @@
+html {
+    font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;
+    line-height: 20pt;
+}
+
+body {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin: 32px 0 48px 0;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin: 10px 10px 0 0;
+}
+
+.center {
+  text-align: center;
+}
